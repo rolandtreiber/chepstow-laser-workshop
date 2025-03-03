@@ -1,5 +1,8 @@
-title: Merlot theme
-description: Merlot is a theme for GitHub Pages.
+title: Chepstow Laser Workshop
+description: Custom design development and laser crafting in Chepstow
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-merlot
+contact:
+  email: mailto:rolandtreiber@gmail.com
+  phone: tel:07715295672
